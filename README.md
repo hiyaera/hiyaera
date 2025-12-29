@@ -1,3 +1,5 @@
+Frontend Dev @LockTheDeal
+
 # 💫 About Me:
 I’m a Frontend Developer with ~2 years of experience building modern, user-centric web applications.<br>I work mainly with React.js, Vue.js, and Remix.js, focusing on clean UI, performance optimization, and scalable frontend architecture.
 
